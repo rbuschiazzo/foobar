@@ -1,1 +1,2 @@
-# foobar is a new repository for training purposes.
+# foobar 
+is a new repository for training purposes.
